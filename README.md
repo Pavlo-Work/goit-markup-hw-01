@@ -1,1 +1,1 @@
-Higit status
+Hi
